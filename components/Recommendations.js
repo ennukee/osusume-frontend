@@ -14,7 +14,7 @@ const Recommendations = (props) => (
       <div id="recommendations-title">Recommended for you</div>
       <div id="recommendations-data">
         {props.rec_data.map((rec) => (
-          <RecItem id={rec.data.id} rec={rec} />
+          <RecItem key={rec.data.id} rec={rec} />
         ))}
       </div>
     </Column>

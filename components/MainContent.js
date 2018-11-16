@@ -17,7 +17,6 @@ const MainContent = (props) => (
         width: 100%;
         min-width: 1050px;
 
-        margin-top: 50px;
         display: flex;
         justify-content: center;
       }
