@@ -1,0 +1,363 @@
+{
+  "averageScore": 67,
+  "episodes": 26,
+  "idMal": 36432,
+  "studios": {
+    "edges": [
+      {
+        "node": {
+          "id": 7,
+          "name": "J.C. Staff",
+          "siteUrl": "https://anilist.co/studio/7"
+        }
+      }
+    ]
+  },
+  "title": {
+    "romaji": "Toaru Majutsu no Index III",
+    "userPreferred": "Toaru Majutsu no Index III",
+    "english": "A Certain Magical Index III",
+    "native": "\u3068\u3042\u308b\u9b54\u8853\u306e\u7981\u66f8\u76ee\u9332III"
+  },
+  "staff": {
+    "edges": [
+      {
+        "node": {
+          "id": 100389,
+          "name": {
+            "first": "Kazuma",
+            "last": "Kamachi",
+            "native": "\u938c\u6c60\u548c\u99ac"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 101795,
+          "name": {
+            "first": "Kiyotaka",
+            "last": "Haimura",
+            "native": "\u30ad\u30e8\u30bf\u30ab \u7070\u6751"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "\u9326\u7e54\u535a"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105817,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Yoshino",
+            "native": "\u5f18\u5e78 \u5409\u91ce"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105817,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Yoshino",
+            "native": "\u5f18\u5e78 \u5409\u91ce"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105817,
+          "name": {
+            "first": "Hiroyuki",
+            "last": "Yoshino",
+            "native": "\u5f18\u5e78 \u5409\u91ce"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 120874,
+          "name": {
+            "first": "Kenji",
+            "last": "Sugihara",
+            "native": "\u7814\u4e8c \u6749\u539f"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 101064,
+          "name": {
+            "first": "Kiyoko",
+            "last": "Sayama",
+            "native": "\u4f50\u5c71\u8056\u5b50"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "\u9326\u7e54\u535a"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 118408,
+          "name": {
+            "first": "Yukie",
+            "last": "Hiyamizu",
+            "native": "\u7531\u7d00\u7d75 \u51b7\u6c34"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 103072,
+          "name": {
+            "first": "Ryuunosuke",
+            "last": "Kingetsu",
+            "native": "\u9f8d\u4e4b\u4ecb \u91d1\u6708"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 105384,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Nishikiori",
+            "native": "\u9326\u7e54\u535a"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 103542,
+          "name": {
+            "first": "Maiko",
+            "last": "Iuchi",
+            "native": "\u821e\u5b50 \u4e95\u5185"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132779,
+          "name": {
+            "first": "Shigeru",
+            "last": "Nishiyama",
+            "native": "\u897f\u5c71\u8302"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 95885,
+          "name": {
+            "first": "Yuka",
+            "last": "Iguchi",
+            "native": "\u4e95\u53e3\u88d5\u9999"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 106340,
+          "name": {
+            "first": "Maon",
+            "last": "Kurosaki",
+            "native": "\u9ed2\u5d0e\u771f\u97f3"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 95859,
+          "name": {
+            "first": "Leah",
+            "last": "Clark",
+            "native": " "
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 116017,
+          "name": {
+            "first": "Hiroshi",
+            "last": "Tomioka",
+            "native": "\u5bdb \u51a8\u5ca1"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 103540,
+          "name": {
+            "first": "Yuuichi",
+            "last": "Tanaka",
+            "native": "\u7530\u4e2d\u96c4\u4e00 "
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132877,
+          "name": {
+            "first": "Shingo",
+            "last": "Yuki",
+            "native": "\u7d50\u57ce \u771f\u543e"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132883,
+          "name": {
+            "first": "Yoshiyuki",
+            "last": "Nogami",
+            "native": "\u91ce\u4e0a\u826f\u4e4b"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132880,
+          "name": {
+            "first": "Takashi",
+            "last": "Kobayashi",
+            "native": "\u5c0f\u6797\u5b5d\u5fd7"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132878,
+          "name": {
+            "first": "Yuuichi",
+            "last": "Nihei",
+            "native": "\u4e8c\u74f6\u52c7\u4e00"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132887,
+          "name": {
+            "first": "Noriko",
+            "last": "Dohi",
+            "native": "\u571f\u80a5\u7bc4\u5b50"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": 132886,
+          "name": {
+            "first": "Tomomi",
+            "last": "Andou",
+            "native": "\u5b89\u85e4\u667a\u7f8e"
+          }
+        }
+      }
+    ]
+  },
+  "id": 100185,
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n100185-MZigRVKiRf6m.jpg",
+  "tags": [
+    {
+      "id": 66,
+      "name": "Super Power",
+      "category": "Theme-Fantasy",
+      "rank": 94,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 29,
+      "name": "Magic",
+      "category": "Theme-Fantasy",
+      "rank": 87,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 321,
+      "name": "Urban Fantasy",
+      "category": "Setting-Universe",
+      "rank": 79,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 82,
+      "name": "Male Protagonist",
+      "category": "Cast-Main Cast",
+      "rank": 78,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 56,
+      "name": "Shounen",
+      "category": "Demographic",
+      "rank": 77,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 111,
+      "name": "War",
+      "category": "Theme-Other",
+      "rank": 60,
+      "isMediaSpoiler": true
+    },
+    {
+      "id": 198,
+      "name": "Foreign",
+      "category": "Setting-Scene",
+      "rank": 60,
+      "isMediaSpoiler": false
+    },
+    {
+      "id": 23,
+      "name": "Harem",
+      "category": "Theme-Romance",
+      "rank": 52,
+      "isMediaSpoiler": false
+    }
+  ],
+  "endDate": {
+    "year": null,
+    "day": null,
+    "month": null
+  },
+  "source": "LIGHT_NOVEL",
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100185-NHEkbQX2d7JA.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100185-NHEkbQX2d7JA.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100185-NHEkbQX2d7JA.jpg"
+  },
+  "popularity": 11671,
+  "trending": 38,
+  "type": "ANIME",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "isAdult": false,
+  "season": "FALL",
+  "startDate": {
+    "year": 2018,
+    "day": 5,
+    "month": 10
+  },
+  "mediaId": 100185
+}

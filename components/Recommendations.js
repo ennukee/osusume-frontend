@@ -1,26 +1,24 @@
-// let dummydata = require('../dummydata.json')
-// console.log({ dummydata })
 import fetch from 'isomorphic-unfetch'
 import Layout from './DefaultLayout'
 import RecItem from './RecItem'
 
 import { Column } from 'simple-flexbox';
 
-// tbd: take props.rec_data and make a new component <RecItem /> for each item in that list
-
 const Recommendations = (props) => (
   <div id="recommendations">
-    <Column>
+    <Column alignItems='center'>
       <div id="recommendations-title">Recommended for you</div>
       <div id="recommendations-data">
+
         {props.rec_data.map((rec) => (
-          <RecItem id={rec.data.id} rec={rec} />
+          <RecItem key={rec[0].mediaId} rec={rec[0]} custom_data={rec[1]}  />
         ))}
       </div>
     </Column>
     <style jsx>{`
       #recommendations {
         width: 50%;
+        min-width: 580px;
         height: 100%;
         background-color: #ff9c3caa;
       }

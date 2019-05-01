@@ -20,7 +20,15 @@ const User = withRouter((props) => (
 User.getInitialProps = async function(context) {
   const res = await fetch(`http://localhost:8888/dummydata`)
   const dummydata = await res.json()
-  console.log(dummydata)
+
+  // var a = { rec_data: dummydata };
+  // var rc = { rec_data: a.rec_data };
+  // rc.rec_data.map((e) => (
+  //   console.log(e[0].title)
+  // ));
+  // dummydata.map((e) => (
+  //   console.log(e[0].title)
+  // ));
 
   return { rec_data: dummydata }
 }
