@@ -7,7 +7,8 @@ const Header = () => (
         top: 0;
         width: 100%;
         height: 45px;
-        background-color: red;
+        z-index: 100;
+        background-color: black;
       }
     `}</style>
   </div>

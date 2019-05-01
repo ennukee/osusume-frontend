@@ -9,20 +9,26 @@ class Layout extends React.Component {
 
   render() {
     return (<div className="layoutL">
-      <Header />
+      <div id="header-container" className={`${this.props.incl_header == "no" ? "no-header" : ""}`}><Header /></div>
       <div className="layout">
         {this.props.children}
       </div>
+
       <style jsx>{`
-        div.layoutL {
+        div.layout {
           padding-top: 45px;
+        }
+
+        #header-container.no-header {
+          display: none;
         }
       `}</style>
       <style jsx global>{`
         body {
+          font-family: 'Roboto';
           margin: 0;
           height: 100vh;
-          background-color: #ffc9c99c;
+          background-color: rgba(255, 255, 0, 0.05);
         }
 
         #__next {

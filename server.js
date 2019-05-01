@@ -15,6 +15,16 @@ app.prepare()
   //   app.render(req, res, actualPage, queryParams)
   // })
 
+  server.get('/user/token/:token', (req, res) => {
+    app.render(req, res, '/user', {access_token: req.params.token})
+  })
+
+  server.get('/user', (req, res) => {
+    // If the user reloads the page after masking the token, just pass through login to prevent errors
+    let BACKEND_URI = process.env.BACKEND_URI || "http://localhost:8888/login"
+    res.redirect(BACKEND_URI)
+  })
+
   server.get('/login', (req, res) => {
     let BACKEND_URI = process.env.BACKEND_URI || "http://localhost:8888/login"
     res.redirect(BACKEND_URI)
