@@ -3,15 +3,13 @@ import fetch from 'isomorphic-unfetch'
 
 import Layout from '../components/DefaultLayout'
 import Sidebar from '../components/Sidebar'
-import MainContent from '../components/MainContent'
+import MainContent from '../components/user/MainContent'
 
 import { Row } from 'simple-flexbox';
 
 const User = withRouter((props) => (
   <Layout pad_inner="0">
-    <Row>
-      <MainContent rec_data={props.rec_data}/>
-    </Row>
+    <MainContent rec_data={props.rec_data}/>
   </Layout>
 ))
 
